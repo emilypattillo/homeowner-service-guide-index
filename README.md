@@ -41,3 +41,13 @@ A public URL-only resource index for local homeowner service guides. It avoids s
 - [The Villages Stump Grinding](https://thevillagesstumpgrinding.com/) — stump grinding The Villages
 - [Vero Beach Cabinet Painting](https://verobeachcabinetpainting.com/) — cabinet painting Vero Beach FL
 - [Winter Garden Sprinkler Repair](https://wintergardenflsprinklerrepair.com/) — sprinkler repair Winter Garden
+
+## Deep homeowner guide links for new launch sites
+
+- Ocala Garage Floor Coatings: [cost guide](https://ocalagaragefloorcoatings.com/cost), [homeowner checklist](https://ocalagaragefloorcoatings.com/homeowner-checklist), [service area guide](https://ocalagaragefloorcoatings.com/service-area-guide)
+- Palm Coast FL Gutter Cleaning: [cost guide](https://palmcoastflguttercleaning.com/cost), [homeowner checklist](https://palmcoastflguttercleaning.com/homeowner-checklist), [service area guide](https://palmcoastflguttercleaning.com/service-area-guide)
+- Daytona Concrete Lifting: [cost guide](https://daytonaconcretelifting.com/cost), [homeowner checklist](https://daytonaconcretelifting.com/homeowner-checklist), [service area guide](https://daytonaconcretelifting.com/service-area-guide)
+- Naples FL Boat Lift Repair: [cost guide](https://naplesflboatliftrepair.com/cost), [homeowner checklist](https://naplesflboatliftrepair.com/homeowner-checklist), [service area guide](https://naplesflboatliftrepair.com/service-area-guide)
+- Punta Gorda Seawall Repair: [cost guide](https://puntagordaseawallrepair.com/cost), [homeowner checklist](https://puntagordaseawallrepair.com/homeowner-checklist), [service area guide](https://puntagordaseawallrepair.com/service-area-guide)
+- Vero Beach Cabinet Painting: [cost guide](https://verobeachcabinetpainting.com/cost), [homeowner checklist](https://verobeachcabinetpainting.com/homeowner-checklist), [service area guide](https://verobeachcabinetpainting.com/service-area-guide)
+- St Augustine Screen Repair: [cost guide](https://staugustinescreenrepair.com/cost), [homeowner checklist](https://staugustinescreenrepair.com/homeowner-checklist), [service area guide](https://staugustinescreenrepair.com/service-area-guide)
